@@ -1,5 +1,13 @@
 # Sample Hardhat Project
 
+Install the dependencies:
+
+```shell
+npm install
+```
+
+**Don't Add your private key to .env file**
+
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
 Try running some of the following tasks:
